@@ -26,7 +26,7 @@
                class="cake"
                />
           <img src="#" alt="Foto pasangan mu" class="taaImg" />
-          <h2 class="happy">Happy Birthday to Nata!!</h2>
+          <h2 class="happy">Happy Birthday to Yuki!!</h2>
         </div>
         <div class="cardInside">
           <h3 class="back">HAPPY BIRTHDAY Yuki!</h3>
