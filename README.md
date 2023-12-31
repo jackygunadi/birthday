@@ -25,7 +25,7 @@
                alt="cake"
                class="cake"
                />
-          <img src="#" alt="Foto pasangan mu" class="taaImg" />
+          <img src="#" alt="EYFN4633.JPG" class="taaImg" />
           <h2 class="happy">Happy Birthday to Yuki!!</h2>
         </div>
         <div class="cardInside">
